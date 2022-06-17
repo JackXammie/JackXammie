@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JackXammie
-- 👀 I’m interested in ...Programming, Forex trading, STEM, Petroleum Engineering
-- 🌱 I’m currently learning ...Python, Forex Trading,
-- 💞️ I’m looking to collaborate on ...Building algorithms for good ideas
-- 📫 How to reach me ...Whatsapp
+- 👀 I’m interested in ...Big Data, Engineering, Programming, Forex trading, STEM, Digitalization
+- 🌱 I’m currently learning ...GCP, Android development, Software Engineering, Financial Analysis
+- 💞️ I’m looking forward to working remotely
+- 📫 DM Me, it would be nice 🙂 
 
 <!---
 JackXammie/JackXammie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
