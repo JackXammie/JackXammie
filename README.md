@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JackXammie
-- 👀 I’m interested in ...Agriculture, Business,Coding,Data Analysis, Engineering, Finance, Google, Programming, Forex trading, STEM,
+- 👋 Hi, I’m @Samuel 
+- 👀 I’m interested in ... Computer Science, Agriculture, Business, Coding, Data Analysis, Engineering, Finance, Google, Programming, Forex trading, STEM,
 - 🌱 I’m currently learning ...Hydroponics. 
 - 💞️ I’m looking to collaborate on ...Building algorithms for good ideas
 - 📫 How to reach me ...@WhatsApp +2348064927364
