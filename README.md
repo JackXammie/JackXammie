@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @Samuel 
-- 👀 I’m interested in ... Computer Science, Agriculture, Business, Coding, Data Analysis, Engineering, Finance, Google, Programming, Forex trading, STEM,
-- 🌱 I’m currently learning ...Hydroponics. 
-- 💞️ I’m looking to collaborate on ...Building algorithms for good ideas
-- 📫 How to reach me ...@WhatsApp +2348064927364
+Hi, I'm Samuel Eke 👋
+💻 Computer Science Student
+☁️ Google Cloud Platform Enthusiast
+🌍 Open to Remote Opportunities
+🌱 Interested in Agri-Tech & Automation
 
-<!---
-JackXammie/JackXammie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Technical Skills
+Python
+JavaScript
+HTML & CSS
+Google Cloud Platform (GCP)
+Git & GitHub
+
+🚀 Current Focus
+Building cloud-based applications
+Automating workflows with Python
+Developing responsive web applications
+
+📌 Projects
+Task Manager Web App (JavaScript)
+Python Data Automation Scripts
+Responsive Portfolio Website
+
+📫 Let’s Connect
+Open to internships, freelance projects, and remote roles.
+
+
