@@ -1,20 +1,30 @@
-Hi, I'm Samuel Eke 👋
-💻 Computer Science Student
-☁️ Google Cloud Platform Enthusiast
-🌍 Open to Remote Opportunities
-🌱 Interested in Agri-Tech & Automation
+# Hi, I'm Samuel 👋
 
-🔧 Technical Skills
-Python
-JavaScript
-HTML & CSS
-Google Cloud Platform (GCP)
-Git & GitHub
+🚀 Backend Developer focused on Cloud & Scalable Systems  
 
-🚀 Current Focus
-Building cloud-based applications
-Automating workflows with Python
-Developing responsive web applications
+## 🔧 Tech Stack
+- Python
+- Flask
+- Git & GitHub
+- Google Cloud (Cloud Run)
+
+## 📌 Featured Project
+### 🗒️ GCP Task Manager
+A cloud-deployable task management app built with Flask and Docker.
+
+Features:
+- Add tasks
+- Mark as done
+- Delete tasks
+- Task counter
+- Timestamp
+- Dark mode support
+
+Deployed on Google Cloud Run (coming soon 🚀)
+
+---
+
+📫 Reach me: ekes121@gmail.com
 
 📌 Projects
 Task Manager Web App (JavaScript)
