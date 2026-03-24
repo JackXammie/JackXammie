@@ -1,26 +1,19 @@
-# Hi, I'm Samuel 👋
+👋 Hi! I’m Samuel, a Computer Science undergraduate from Nigeria with a passion for Quantum Computing, Quantum Machine Learning (QML), and Scientific Applications of AI.
+I build hybrid classical-quantum models and explore post-quantum cryptography, Bio Quantum Computing, and ML for High-Energy Physics (ML4SCI).
 
-🚀 Backend Developer focused on Cloud & Scalable Systems  
+🚀 Current Projects and Portfolio in Repository
 
-## 🔧 Tech Stack
-- Python
-- Flask
-- Git & GitHub
-- Google Cloud (Cloud Run)
+🛠 Tech Stack & Skills
+Quantum & ML: TensorFlow Quantum, Cirq, Qiskit, QML algorithms
+Programming: Python, JavaScript, HTML, CSS
+Data & Cloud: Google Cloud Platform, Data Processing & Visualization
+Other: Git & GitHub, Automation Scripting, Technical Troubleshooting
 
-## 📌 Featured Project
-### 🗒️ GCP Task Manager
-A cloud-deployable task management app built with Flask and Docker.
-
-Features:
-- Add tasks
-- Mark as done
-- Delete tasks
-- Task counter
-- Timestamp
-- Dark mode support
-
-Deployed on Google Cloud Run (coming soon 🚀)
+🎯 Interests
+Quantum Machine Learning & QMLHEP applications
+Post-Quantum Cryptography
+Bio Quantum Computing
+Scientific AI & High-Energy Physics
 
 ---
 
